@@ -1,2 +1,2 @@
-# Project2_Haddad_Tully_Temlock
-W200 Project 2 - Faris Haddad, Gregory Tully, Sam Temlock
+# Instacart_market_basket_analysis
+Instacart user market basket analysis of organic produce purchasing behavior
