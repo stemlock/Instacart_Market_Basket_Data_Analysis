@@ -1,4 +1,4 @@
-# Instacart\_market\_basket_analysis
+# Instacart Market Basket Analysis
 
 ## Abstract
 
