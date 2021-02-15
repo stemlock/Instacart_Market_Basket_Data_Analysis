@@ -4,7 +4,15 @@
 
 Instacart has emerged as a leading grocery delivery platform in North America and it's growth is fast accelerating due to COVID-19. Given the increase in online grocery shopping and as avid food enthusiasts, we wanted to understand what people are ordering and how their behaviour differs. After exploring the dataset and the different data points it contains, we identified the opportunity to focus on user and order behaviour when buying produce (fruits, vegetables, etc.).
 
-Credit for this project also goes to Greg Tully and Faris Haddad of the UC Berkeley Masters of Information and Data Science program.
+## Research Questions
+
+*1. What is the breakdown of customers that <ins>buy organic</ins> versus ones that <ins>never buy
+organic</ins> when given the option?*
+
+*2. Does purchasing behavior differ between organic and never organic users?*
+
+*3. Does user purchasing behavior change as they make more orders on Instacart? And is
+buying “organic” a stable or dynamic behavior?*
 
 ## Tools Used
 
@@ -23,15 +31,7 @@ For the purposes of refraining from taking credit for my other dedicated group m
 - `Preprocressing_organic_segmentation_Temlock.ipynb`
 - `Question3_Temlock.ipynb`
 
-## Research Questions
-
-*1. What is the breakdown of customers that <ins>buy organic</ins> versus ones that <ins>never buy
-organic</ins> when given the option?*
-
-*2. Does purchasing behavior differ between organic and never organic users?*
-
-*3. Does user purchasing behavior change as they make more orders on Instacart? And is
-buying “organic” a stable or dynamic behavior?*
+Credit for this project also goes to Greg Tully and Faris Haddad of the UC Berkeley Masters of Information and Data Science program.
 
 ## Research Dataset
 
