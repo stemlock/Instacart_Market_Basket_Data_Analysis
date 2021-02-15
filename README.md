@@ -1,5 +1,12 @@
 # Instacart Market Basket Analysis
 
+- [EDA and Data Cleaning](Data_cleaning_Temlock.ipynb)
+- [Data preprocessing](Preprocressing_organic_segmentation_Temlock.ipynb)
+- [Analysis for Question 3](Question3_Temlock.ipynb)
+- [Final_report](Project_2_Final_Report_Haddad_Tully_Temlock.pdf)
+- [Final_presentation](Project_2_Presentation_Haddad_Tully_Temlock.pdf)
+- 
+
 ## Abstract
 
 Instacart has emerged as a leading grocery delivery platform in North America and it's growth is fast accelerating due to COVID-19. Given the increase in online grocery shopping and as avid food enthusiasts, we wanted to understand what people are ordering and how their behaviour differs. After exploring the dataset and the different data points it contains, we identified the opportunity to focus on user and order behaviour when buying produce (fruits, vegetables, etc.).
