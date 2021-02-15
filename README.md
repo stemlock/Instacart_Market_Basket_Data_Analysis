@@ -1,8 +1,8 @@
 # Instacart Market Basket Analysis
 
-- [EDA and data cleaning](Data_cleaning_Temlock.ipynb)
-- [Data preprocessing](Preprocressing_organic_segmentation_Temlock.ipynb)
-- [Analysis for Question 3](Question3_Temlock.ipynb)
+- [EDA and data cleaning](src/Data_cleaning_Temlock.ipynb)
+- [Data preprocessing](src/Preprocressing_organic_segmentation_Temlock.ipynb)
+- [Analysis for Question 3](src/Question3_Temlock.ipynb)
 - [Final report](Project_2_Final_Report_Haddad_Tully_Temlock.pdf)
 - [Final presentation](Project_2_Presentation_Haddad_Tully_Temlock.pdf)
 
