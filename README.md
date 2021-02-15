@@ -8,6 +8,10 @@ Credit for this project also goes to Greg Tully and Faris Haddad of the UC Berke
 
 ## Tools Used
 
+Languages:
+- Python
+
+Libraries:
 - numpy
 - pandas
 - matplotlib
