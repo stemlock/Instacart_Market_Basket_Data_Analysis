@@ -5,7 +5,6 @@
 - [Analysis for Question 3](Question3_Temlock.ipynb)
 - [Final_report](Project_2_Final_Report_Haddad_Tully_Temlock.pdf)
 - [Final_presentation](Project_2_Presentation_Haddad_Tully_Temlock.pdf)
-- 
 
 ## Abstract
 
