@@ -40,10 +40,10 @@ towards Moderate while Never Organics migrate towards Tasters
 
 ## Tools Used
 
-Languages:
+#### Languages:
 - Python
 
-Libraries:
+#### Libraries:
 - numpy
 - pandas
 - matplotlib
