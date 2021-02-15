@@ -14,40 +14,6 @@ organic</ins> when given the option?*
 *3. Does user purchasing behavior change as they make more orders on Instacart? And is
 buying “organic” a stable or dynamic behavior?*
 
-## Tools Used
-
-Languages:
-- Python
-
-Libraries:
-- numpy
-- pandas
-- matplotlib
-
-## Division of Labor
-For the purposes of refraining from taking credit for my other dedicated group members work, each notebook is labelled by last name to denote contribution to the overall research project. Additionally, the work contributed by the other members of the research team has been seperately stored within the `Other_analysis` directory. The following notebooks have been labelled as my own contributions to the project:
-
-- `Data_cleaning_Temlock.ipynb`
-- `Preprocressing_organic_segmentation_Temlock.ipynb`
-- `Question3_Temlock.ipynb`
-
-Credit for this project also goes to Greg Tully and Faris Haddad of the UC Berkeley Masters of Information and Data Science program.
-
-## Research Dataset
-
-The source dataset leveraged was from a machine-learning based Instacart Kaggle
-competition that contained a relational set of files describing Instacart customers' orders over
-time. For the purpose of the competition, the ordered products were split into the prior, train and
-test datasets, of which the test dataset was not publicly available.
-Source datasets: Instacart Market Basket Analysis (available on [Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis/data))
-
-- Datasets leveraged for this analysis - `aisles.csv`, `departments.csv`,
-`order_products__prior.csv`, `order_products__train.csv`, `orders.csv`, `products.csv`
-
-Note that the `orders.csv` contains information pertaining to each order as a whole, while
-each `order_products__*.csv` contains information about the basket of products within each
-order (one order can have multiple products).
-
 ## Project Outcomes
 
 In conclusion, given the analysis of our three research questions, we believe that the following
@@ -65,3 +31,37 @@ might be “pickier” buyers
 - Users in the **Super Organic and Never Organic segments appear less stable** than
 those in the Moderate Organic and Organic Taster segments. Super Organics migrate
 towards Moderate while Never Organics migrate towards Tasters
+
+## Tools Used
+
+Languages:
+- Python
+
+Libraries:
+- numpy
+- pandas
+- matplotlib
+
+## Research Dataset
+
+The source dataset leveraged was from a machine-learning based Instacart Kaggle
+competition that contained a relational set of files describing Instacart customers' orders over
+time. For the purpose of the competition, the ordered products were split into the prior, train and
+test datasets, of which the test dataset was not publicly available.
+Source datasets: Instacart Market Basket Analysis (available on [Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis/data))
+
+- Datasets leveraged for this analysis - `aisles.csv`, `departments.csv`,
+`order_products__prior.csv`, `order_products__train.csv`, `orders.csv`, `products.csv`
+
+Note that the `orders.csv` contains information pertaining to each order as a whole, while
+each `order_products__*.csv` contains information about the basket of products within each
+order (one order can have multiple products).
+
+## Division of Labor
+For the purposes of refraining from taking credit for my other dedicated group members work, each notebook is labelled by last name to denote contribution to the overall research project. Additionally, the work contributed by the other members of the research team has been seperately stored within the `Other_analysis` directory. The following notebooks have been labelled as my own contributions to the project:
+
+- `Data_cleaning_Temlock.ipynb`
+- `Preprocressing_organic_segmentation_Temlock.ipynb`
+- `Question3_Temlock.ipynb`
+
+Credit for this project also goes to Greg Tully and Faris Haddad of the UC Berkeley Masters of Information and Data Science program.
