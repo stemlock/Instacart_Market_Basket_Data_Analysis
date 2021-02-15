@@ -58,10 +58,12 @@ each `order_products__*.csv` contains information about the basket of products w
 order (one order can have multiple products).
 
 ## Division of Labor
+
+Credit for this project also goes to my team members Greg Tully and Faris Haddad of the UC Berkeley Masters of Information and Data Science program.
+
 For the purposes of refraining from taking credit for my other dedicated group members work, each notebook is labelled by last name to denote contribution to the overall research project. Additionally, the work contributed by the other members of the research team has been seperately stored within the `Other_analysis` directory. The following notebooks have been labelled as my own contributions to the project:
 
 - `Data_cleaning_Temlock.ipynb`
 - `Preprocressing_organic_segmentation_Temlock.ipynb`
 - `Question3_Temlock.ipynb`
 
-Credit for this project also goes to Greg Tully and Faris Haddad of the UC Berkeley Masters of Information and Data Science program.
